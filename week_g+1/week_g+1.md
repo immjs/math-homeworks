@@ -1,4 +1,4 @@
-# Les maths a la maison, semaine ??
+# Les maths a la maison, semaine G+1
 ## Theme 1
 ### Ex. 56 p.64
 Virginie peut remplir 6 verres, car (2/3)/(1/9)=6

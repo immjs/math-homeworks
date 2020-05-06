@@ -47,8 +47,8 @@ BI=2.5+7.433034373659253...
 BI=9.933034373659253...
 L'arbre mesurait 9.933034373659253...m de haut avant sa destruction naturelle imprévue. R.I.P. arbre.
 ## TD
-![TD part. 1](./TD/TD1)
-![TD part. 2](./TD/TD2)
-![TD part. 3](./TD/TD3)
-![TD part. 4](./TD/TD4)
-![TD part. 5](./TD/TD5)
+![TD part. 1](./TD/TD1.jpg)
+![TD part. 2](./TD/TD2.jpg)
+![TD part. 3](./TD/TD3.jpg)
+![TD part. 4](./TD/TD4.jpg)
+![TD part. 5](./TD/TD5.jpg)

@@ -24,11 +24,14 @@ if(answer.toLowerCase()=='t'){
   let a=await ask(`${points[0]}${R}=`)
   let a2=await ask(`${points[1]}${R}=`)
   await ask(`Resultat: Je sais que dans le triangle ${T.join('')} rectangle en ${R}, {${points[0]}${R}=${a} et ${points[1]}${R}=${a2}}.
+
 Or, selon le theoreme de pythagore, la somme des deux cotés au carré est égale au carré de l'hypothénuse.
+\`\`\`markdown
 Donc ${points[0]}${points[1]}=√(${points[0]}${R}²+${points[0]}${R}²)
      ${points[0]}${points[1]}=√(${a}²+${a2}²)
      ${points[0]}${points[1]}=√(${a**2}+${a2**2})
-     ${points[0]}${points[1]}=${(a**2+a2**2)**.5}${u}`)
+     ${points[0]}${points[1]}=${(a**2+a2**2)**.5}${u}
+\`\`\``)
   process.exit()
 }else if(answer.toLowerCase()=='r'){
   let ptCorr='';
@@ -40,11 +43,14 @@ Donc ${points[0]}${points[1]}=√(${points[0]}${R}²+${points[0]}${R}²)
   let a=await ask(`${points[0]}${points[1]}=`)
   let a2=await ask(`${ptCorr}${R}=`)
   await ask(`Resultat: Je sais que dans le triangle ${T.join('')} rectangle en ${R}, {${points[0]}${points[1]}=${a} et ${ptCorr}${R}=${a2}}.
+
 Or, selon la réciproque du theoreme de pythagore, pour calculer un coté dans un triangle rctangle qui n'est pas l'hypothénuse, il faut soustraire l'autre coté au carré a l'hypothénuse.
+\`\`\`markdown
 Donc ${ptMiss}${R}=√(${points[0]}${points[1]}²-${ptCorr}${R}²)
      ${ptMiss}${R}=√(${a}²-${a2}²)
      ${ptMiss}${R}=√(${a**2}-${a2**2})
-     ${ptMiss}${R}=${(a**2-a2**2)**.5}${u}`)
+     ${ptMiss}${R}=${(a**2-a2**2)**.5}${u}
+\`\`\``)
   process.exit()
 }else{
   await ask('Reponse incompréhensible')

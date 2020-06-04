@@ -22,4 +22,4 @@ Donc AP=√(AM²+AM²)
 ``` 
 Ousmane a donc raison
 
-35)[](./img.png)
+35)![](./img.png)

@@ -1,3 +1,9 @@
+# Theoreme de pythagore
+
+## Manuel
+
+### P. 247 
+
 32)a)Vrai
 
    b)Vrai
@@ -22,4 +28,13 @@ Donc AP=√(AM²+AM²)
 ``` 
 Ousmane a donc raison
 
-35)![](./img.png)
+35)![](./unknown.png)
+
+## TD
+
+### P. 71
+
+1)a)CB, car il est plus grand que CA et AB séparments, mais il est plus petit que la somme de CA et AB
+
+  b)Dans le triangle ABC, le plus long coté est BC
+    donc on 

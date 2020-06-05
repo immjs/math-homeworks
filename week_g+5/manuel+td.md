@@ -104,6 +104,11 @@ CD²+BD²!=CB²
 CDB n'est pas rectangle.
 
 ## Manuel
+
+### P. 247
+
+#### Ex. 37
+
 ##### a.
 
 PF pourrait être le coté de l'hypoténuse car il est plus grand que les deux autre cotés séparément mais est plus petit que la somme des deux autres cotés
@@ -128,4 +133,29 @@ PU²+FU²≠PF²
 
 PUF n'est pas rectangle. 
 
+#### Ex. 37
+
+##### a.
+
+LF pourrait être le coté de l'hypoténuse car il est plus grand que les deux autre cotés séparément mais est plus petit que la somme des deux autres cotés
+
+##### b.
+
+Dans le triangle MNP, le plus long coté est NP
+
+Donc on calcule séparément:
+
+LF²=6²
+
+LF²=36
+
+LD²+FD²=(2.3²)+(5.6²)
+
+LD²+FD²=5.29+31.36
+
+LD²+FD²≠LF²
+
+##### c.
+
+LDF n'est pas rectangle. 
 

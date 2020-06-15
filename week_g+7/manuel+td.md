@@ -1,0 +1,4 @@
+-On est lundi nan?
+-Bah oui
+-Bah alors on a encore 6 jours pour le faire
+-Ah bah oui t'as raison!
